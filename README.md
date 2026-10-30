@@ -1,5 +1,9 @@
 # opensearch-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/opensearch-or-just-updated-it-boots-and-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [OpenSearch template](https://railway.com/deploy/opensearch-or-just-updated-it-boots-and-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 OpenSearch 3.8.0, wrapped so it actually deploys on [Railway](https://railway.com).
 
 Upstream's image cannot run on Railway unmodified. Three things are in the way, and this
